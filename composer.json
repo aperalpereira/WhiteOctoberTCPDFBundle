@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": ">=2.0",
-        "alterna/TCPDF": "*"
+        "alterna/TCPDF": "6.3.6"
     },
     "autoload": {
         "psr-4": { "WhiteOctober\\TCPDFBundle\\": "" }
